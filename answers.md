@@ -27,29 +27,39 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	answers.md
 
+Answer 6: On branch master
 
-Answer 6: New file: answer.md
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
 
 Answer 7: On branch master
-nothing to commit, working tree clean
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
 
-Answer 8: goh@odd31:~/git-lab/git-lab/git-lab$ git log
-commit a135ef701828ed02c33d9176fb8158a87b5a888f (HEAD -> master)
-Author: MatGoh265 <mg639224@ohio.edu>
-Date:   Fri Sep 6 15:05:21 2024 -0400
+no changes added to commit (use "git add" and/or "git commit -a")
 
-    initial commit
 
-Answer 9: Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (3/3), done.
-Writing objects: 100% (5/5), 423 bytes | 141.00 KiB/s, done.
-Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/MatGoh265/git-lab.git
+Answer 8: Author: MatGoh265 <mg639224@ohio.edu>
+Date:   Mon Sep 9 15:06:57 2024 -0400
 
-Answer 10: 
+    Initial commit
 
-Answer 11: 
 
-Answer 12
+Answer 9:It transfered my infromation to the files on GitHub
+
+Answer 10: No
+
+Answer 11: Failed to push (Error Message)
+
+Answer 12: Yes
+
+Answer 13: .  ..  git-lab	git-lab-2  Labs
+
+Answer 14:
